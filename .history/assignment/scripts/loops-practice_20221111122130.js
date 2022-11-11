@@ -52,8 +52,8 @@ console.log('---- 3. While loop ----');
 console.log('Some stars using while:');
 j=0;
 while (j < stars.length) {
-  console.log(stars[j]);
-  j++
+  console.log(stars[i]);
+  i++
 }
 
 

@@ -50,10 +50,10 @@ console.log('---- 3. While loop ----');
 
 // 3.a. TODO: Write a while loop to console.log each star in the 'stars' array
 console.log('Some stars using while:');
-j=0;
-while (j < stars.length) {
-  console.log(stars[j]);
-  j++
+i=0;
+while (i < stars.length) {
+  console.log(stars[i]);
+  i++
 }
 
 
